@@ -1,0 +1,12 @@
+Tarea.txt JSI
+
+Variable = se utiliza para almacenar el valor de algo para utilizarlo mas tarde.
+Strings = son un tipo de datos. Son texto.
+Funciones = sirve para agrupar codigo y despues utilizarlo, podemos agrupar la informacion de las variables con lo que queremos
+hacer con ellas y luego ejecutarlo.
+        argumentos = son parte de las funciones, se colocan entre parentisis y son las variables que declaramos dentro de la 
+        funcion que se ejecutaran cuando invoquemos la funcion.
+        return = se utiliza para que la funcion retorne algo. lo que se escriba abajo de return no retorna.
+Declaraciones (if) = nos permite ejecutar codigo segun ciertas condiciones. Por ejemplo, si sucede esto devolver esto otro, si 
+no devolver otra cosa. 
+Valores booleanos = son un tipo de datos, permite dos valores posibles true o false.
